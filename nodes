@@ -1,0 +1,1702 @@
+1|1|Phoenix, AZ
+2|1|Sydney, Australia
+3|1|Brussels, Belgium
+4|1|Rio de Janeiro, Brazil
+5|1|Sao Paolo, Brazil
+6|1|Los Angeles, CA
+7|1|Mountain View, CA
+8|1|Oakland, CA
+9|1|Palo Alto, CA
+10|1|San Diego, CA
+11|1|San Francisco, CA
+12|1|San Jose, CA
+13|1|San Luis Obispo, CA
+14|1|Denver, CO
+15|1|Hartford, CT
+16|1|Washington, DC
+17|1|Jacksonville, FL
+18|1|Miami, FL
+19|1|Tampa, FL
+20|1|Paris, France
+21|1|Atlanta, GA
+22|1|Dusseldorf, Germany
+23|1|Frankfurt, Germany
+24|1|Honolulu, HI
+25|1|Chicago, IL
+26|1|Indianapolis, IN
+27|1|Dublin, Ireland
+28|1|Milan, Italy
+29|1|Tokyo, Japan
+30|1|Boston, MA
+31|1|Burlington, MA
+32|1|Cambridge, MA
+33|1|Relay, MD
+34|1|Minneapolis, MN
+35|1|St Louis, MO
+36|1|Durham, NC
+37|1|Newark, NJ
+38|1|New York, NY
+39|1|Amsterdam, Netherlands
+40|1|Cleveland, OH
+41|1|Portland, OR
+42|1|Philadelphia, PA
+43|1|Madrid, Spain
+44|1|Stockholm, Sweden
+45|1|Austin, TX
+46|1|Carrollton, TX
+47|1|Dallas, TX
+48|1|Houston, TX
+49|1|London, UnitedKingdom
+50|1|Manchester, UnitedKingdom
+51|1|Ashburn, VA
+52|1|Chancetown, VA
+53|1|Richmond, VA
+54|1|Vienna, VA
+55|1|Everett, WA
+56|1|Seattle, WA
+57|1|Tacoma, WA
+58|3|Boston, MA
+59|3|Cambridge, MA
+60|101|Seattle, WA
+61|174|Phoenix, AZ
+62|174|Innsbruck, Austria
+63|174|Vienna, Austria
+64|174|Brussels, Belgium
+65|174|Los Angeles, CA
+66|174|San Francisco, CA
+67|174|San Jose, CA
+68|174|Santa Ana, CA
+69|174|Santa Clara, CA
+70|174|Halifax, Canada
+71|174|Sydney, Canada
+72|174|Toronto, Canada
+73|174|Washington, DC
+74|174|Miami, FL
+75|174|Paris, France
+76|174|Atlanta, GA
+77|174|Berlin, Germany
+78|174|Cologne, Germany
+79|174|Dusseldorf, Germany
+80|174|Frankfurt, Germany
+81|174|Hamburg, Germany
+82|174|Koeln, Germany
+83|174|Munich, Germany
+84|174|Stuttgart, Germany
+85|174|Budapest, Hungary
+86|174|Chicago, IL
+87|174|Dublin, Ireland
+88|174|Luxembourg, Luxembourg
+89|174|Bedford, MA
+90|174|Boston, MA
+91|174|Baltimore, MD
+92|174|Detroit, MI
+93|174|Pontiac, MI
+94|174|Newark, NJ
+95|174|Albany, NY
+96|174|New York, NY
+97|174|Westchester, NY
+98|174|Amsterdam, Netherlands
+99|174|Antwerp, Netherlands
+100|174|Cleveland, OH
+101|174|Toledo, OH
+102|174|Philadelphia, PA
+103|174|Seoul, SouthKorea
+104|174|Barcelona, Spain
+105|174|Zaragoza, Spain
+106|174|Basel, Switzerland
+107|174|Geneva, Switzerland
+108|174|Zurich, Switzerland
+109|174|Austin, TX
+110|174|Dallas, TX
+111|174|Birmingham, UnitedKingdom
+112|174|Cambridge, UnitedKingdom
+113|174|Cityreach, UnitedKingdom
+114|174|Edinburgh, UnitedKingdom
+115|174|London, UnitedKingdom
+116|174|Reading, UnitedKingdom
+117|174|Ashburn, VA
+118|174|Milwaukee, WI
+119|209|Phoenix, AZ
+120|209|Anaheim, CA
+121|209|Burbank, CA
+122|209|Los Angeles, CA
+123|209|Palo Alto, CA
+124|209|San Jose, CA
+125|209|Sunnyvale, CA
+126|209|Denver, CO
+127|209|Washington, DC
+128|209|Miami, FL
+129|209|Tampa, FL
+130|209|Atlanta, GA
+131|209|Boise, ID
+132|209|Chicago, IL
+133|209|Boston, MA
+134|209|Minneapolis, MN
+135|209|Omaha, NE
+136|209|Newark, NJ
+137|209|New York, NY
+138|209|Cleveland, OH
+139|209|Dallas, TX
+140|209|Houston, TX
+141|209|Salt Lake City, UT
+142|209|London, UnitedKingdom
+143|209|Ashburn, VA
+144|209|Bellevue, WA
+145|209|Seattle, WA
+146|209|Tacoma, WA
+147|209|Cheyenne, WY
+148|577|Palo Alto, CA
+149|577|Barrie, Canada
+150|577|Belleville, Canada
+151|577|Burlington, Canada
+152|577|Calgary, Canada
+153|577|Edmonton, Canada
+154|577|Guelph, Canada
+155|577|Halifax, Canada
+156|577|Hamilton, Canada
+157|577|Kingston, Canada
+158|577|Kitchener, Canada
+159|577|London, Canada
+160|577|Montreal, Canada
+161|577|New Market, Canada
+162|577|North Bay, Canada
+163|577|Oshawa, Canada
+164|577|Ottawa, Canada
+165|577|Quebec, Canada
+166|577|Regina, Canada
+167|577|Saint Catharines, Canada
+168|577|Sherbrooke, Canada
+169|577|Sudbury, Canada
+170|577|Toronto, Canada
+171|577|Vancouver, Canada
+172|577|Windsor, Canada
+173|577|Winnipeg, Canada
+174|577|Chicago, IL
+175|577|New York, NY
+176|577|Seattle, WA
+177|701|Phoenix, AZ
+178|701|Anaheim, CA
+179|701|Los Angeles, CA
+180|701|Palo Alto, CA
+181|701|Sacramento, CA
+182|701|San Francisco, CA
+183|701|San Jose, CA
+184|701|Santa Clara, CA
+185|701|Stockton, CA
+186|701|Denver, CO
+187|701|Hartford, CT
+188|701|London, Canada
+189|701|Montreal, Canada
+190|701|Toronto, Canada
+191|701|Vancouver, Canada
+192|701|Washington, DC
+193|701|Miami, FL
+194|701|Atlanta, GA
+195|701|Honolulu, HI
+196|701|Chicago, IL
+197|701|Indianapolis, IN
+198|701|Roachdale, IN
+199|701|Topeka, KS
+200|701|Minneapolis, MN
+201|701|Kansas City, MO
+202|701|Saint Louis, MO
+203|701|St Louis, MO
+204|701|Charlotte, NC
+205|701|Farmingdale, NJ
+206|701|Newark, NJ
+207|701|Albuquerque, NM
+208|701|New York, NY
+209|701|Cleveland, OH
+210|701|Portland, OR
+211|701|Philadelphia, PA
+212|701|Austin, TX
+213|701|Dallas, TX
+214|701|Salt Lake City, UT
+215|701|London, UnitedKingdom
+216|701|Reston, VA
+217|701|Richmond, VA
+218|701|Seattle, WA
+219|701|Cheyenne, WY
+220|702|Melbourne, Australia
+221|702|Paris, France
+222|702|Frankfurt, Germany
+223|702|Tokyo, Japan
+224|702|Amsterdam, Netherlands
+225|702|Oslo, Norway
+226|702|Stockholm, Sweden
+227|702|London, UnitedKingdom
+228|702|Hong Kong
+229|702|Singapore
+230|852|Palo Alto, CA
+231|852|Bonaventure, Canada
+232|852|Calgary, Canada
+233|852|Edmonton, Canada
+234|852|Grande Prairie, Canada
+235|852|Halifax, Canada
+236|852|Hauterive, Canada
+237|852|Kamloops, Canada
+238|852|Kingston, Canada
+239|852|Markham, Canada
+240|852|Matane, Canada
+241|852|Moncton, Canada
+242|852|Montreal, Canada
+243|852|New Market, Canada
+244|852|New Westminster, Canada
+245|852|Ottawa, Canada
+246|852|Quebec, Canada
+247|852|Rimouski, Canada
+248|852|Saint Georges de Beauce, Canada
+249|852|Saint Margaret Bay, Canada
+250|852|Surrey, Canada
+251|852|Sydney, Canada
+252|852|Thetford Mines, Canada
+253|852|Toronto, Canada
+254|852|Vancouver, Canada
+255|852|Victoria, Canada
+256|852|Winnipeg, Canada
+257|852|Chicago, IL
+258|852|New York, NY
+259|852|Seattle, WA
+260|1221|Adelaide, Australia
+261|1221|Albury, Australia
+262|1221|Armidale, Australia
+263|1221|Ballarat, Australia
+264|1221|Bathurst, Australia
+265|1221|Bendigo, Australia
+266|1221|Brisbane, Australia
+267|1221|Bunbury, Australia
+268|1221|Cairns, Australia
+269|1221|Campbelltown, Australia
+270|1221|Canberra, Australia
+271|1221|Darwin, Australia
+272|1221|Gosford, Australia
+273|1221|Hobart, Australia
+274|1221|Kalgoorlie, Australia
+275|1221|Lismore, Australia
+276|1221|Mackay, Australia
+277|1221|Maroochydore, Australia
+278|1221|Melbourne, Australia
+279|1221|Mildura, Australia
+280|1221|Moree, Australia
+281|1221|Mount Gambier, Australia
+282|1221|Newcastle, Australia
+283|1221|Orange, Australia
+284|1221|Penrith, Australia
+285|1221|Perth, Australia
+286|1221|Port Maquarie, Australia
+287|1221|Port Pirie, Australia
+288|1221|Rockhampton, Australia
+289|1221|Shepparton, Australia
+290|1221|Southport, Australia
+291|1221|Sydney, Australia
+292|1221|Tamworth, Australia
+293|1221|Toowoomba, Australia
+294|1221|Townsville, Australia
+295|1221|Victor Harbour, Australia
+296|1221|Warnambool, Australia
+297|1221|Wollongong, Australia
+298|1221|Yorketown, Australia
+299|1221|Los Angeles, CA
+300|1221|Napa, CA
+301|1221|Palo Alto, CA
+302|1221|San Jose, CA
+303|1221|Ulverstone, Tasmania
+304|1221|Launceston, Tazmania
+305|1239|Phoenix, AZ
+306|1239|Tucson, AZ
+307|1239|Sydney, Australia
+308|1239|Brussels, Belgium
+309|1239|Anaheim, CA
+310|1239|Burbank, CA
+311|1239|Los Angeles, CA
+312|1239|Palo Alto, CA
+313|1239|Rancho Cordova, CA
+314|1239|Sacramento, CA
+315|1239|San Jose, CA
+316|1239|Stockton, CA
+317|1239|Denver, CO
+318|1239|Hartford, CT
+319|1239|Denver, Colorado
+320|1239|Washington, DC
+321|1239|Copenhagen, Denmark
+322|1239|Miami, FL
+323|1239|Orlando, FL
+324|1239|Paris, France
+325|1239|Atlanta, GA
+326|1239|Frankfurt, Germany
+327|1239|Hamburg, Germany
+328|1239|Pearl Harbor, HI
+329|1239|Chicago, IL
+330|1239|Oak Brook, IL
+331|1239|Indianapolis, IN
+332|1239|Roachdale, IN
+333|1239|Dublin, Ireland
+334|1239|Milan, Italy
+335|1239|Tokyo, Japan
+336|1239|Boston, MA
+337|1239|Springfield, MA
+338|1239|Baltimore, MD
+339|1239|Relay, MD
+340|1239|Minneapolis, MN
+341|1239|Kansas City, MO
+342|1239|Lees Summit, MO
+343|1239|Saint Louis, MO
+344|1239|St Louis, MO
+345|1239|Manasquan, NJ
+346|1239|Newark, NJ
+347|1239|Pennsauken, NJ
+348|1239|Tuckerton, NJ
+349|1239|New York, NY
+350|1239|Amsterdam, Netherlands
+351|1239|Auckland, NewZealand
+352|1239|Cleveland, OH
+353|1239|Stockholm, Sweden
+354|1239|Dallas, TX
+355|1239|Richardson, TX
+356|1239|London, UnitedKingdom
+357|1239|Ashburn, VA
+358|1239|Reston, VA
+359|1239|Seattle, WA
+360|1239|Tacoma, WA
+361|1239|Milwaukee, WI
+362|1239|Cheyenne, WY
+363|1239|Hong Kong
+364|1239|Singapore
+365|1299|Vienna, Austria
+366|1299|Los Angeles, CA
+367|1299|Palo Alto, CA
+368|1299|San Jose, CA
+369|1299|Santa Clara, CA
+370|1299|Copenhagen, Denmark
+371|1299|Miami, FL
+372|1299|Helsinki, Finland
+373|1299|Paris, France
+374|1299|Atlanta, GA
+375|1299|Frankfurt, Germany
+376|1299|Hamburg, Germany
+377|1299|Budapest, Hungary
+378|1299|Chicago, IL
+379|1299|Milan, Italy
+380|1299|Riga, Latvia
+381|1299|New York, NY
+382|1299|Amsterdam, Netherlands
+383|1299|Oslo, Norway
+384|1299|Warsaw, Poland
+385|1299|Moscow, Russia
+386|1299|Saint Petersburg, Russia
+387|1299|Madrid, Spain
+388|1299|Stockholm, Sweden
+389|1299|Sundsvell, Sweden
+390|1299|Zurich, Switzerland
+391|1299|Dallas, TX
+392|1299|Birmingham, UnitedKingdom
+393|1299|London, UnitedKingdom
+394|1299|Manchester, UnitedKingdom
+395|1299|Herndon, VA
+396|1668|Phoenix, AZ
+397|1668|Sao Paolo, Brazil
+398|1668|Burbank, CA
+399|1668|Chatsworth, CA
+400|1668|Desert Cities, CA
+401|1668|Los Angeles, CA
+402|1668|Orange, CA
+403|1668|San Diego, CA
+404|1668|San Jose, CA
+405|1668|Santa Clara, CA
+406|1668|Sunnyvale, CA
+407|1668|Torrance, CA
+408|1668|Denver, CO
+409|1668|Washington, DC
+410|1668|Orlando, FL
+411|1668|Tampa, FL
+412|1668|Atlanta, GA
+413|1668|Frankfurt, Germany
+414|1668|Honolulu, HI
+415|1668|Mililani, HI
+416|1668|Chicago, IL
+417|1668|Indianapolis, IN
+418|1668|Tokyo, Japan
+419|1668|Portland, ME
+420|1668|Detroit, MI
+421|1668|Minneapolis, MN
+422|1668|Kansas City, MO
+423|1668|Charlotte, NC
+424|1668|Greensboro, NC
+425|1668|Raleigh, NC
+426|1668|Wilmington, NC
+427|1668|Lincoln, NE
+428|1668|Albany, NY
+429|1668|New York, NY
+430|1668|Rochester, NY
+431|1668|Syracuse, NY
+432|1668|Canton, OH
+433|1668|Cincinnati, OH
+434|1668|Columbus, OH
+435|1668|Dayton, OH
+436|1668|Portland, OR
+437|1668|Columbia, SC
+438|1668|Memphis, TN
+439|1668|Austin, TX
+440|1668|Dallas, TX
+441|1668|El Paso, TX
+442|1668|Houston, TX
+443|1668|San Antonio, TX
+444|1668|London, UnitedKingdom
+445|1668|Ashburn, VA
+446|1668|Herndon, VA
+447|1668|Vienna, VA
+448|1668|Greenbay, WI
+449|1668|Milwaukee, WI
+450|1784|Palo Alto, CA
+451|1784|Miami, FL
+452|1784|Atlanta, GA
+453|1784|Chicago, IL
+454|1784|Quincy, MA
+455|1784|Charlotte, NC
+456|1784|New York, NY
+457|1784|Reston, VA
+458|1785|Los Angeles, CA
+459|1785|Sacramento, CA
+460|1785|San Francisco, CA
+461|1785|San Jose, CA
+462|1785|Toronto, Canada
+463|1785|Washington, DC
+464|1785|Atlanta, GA
+465|1785|Boston, MA
+466|1785|Kansas City, MO
+467|1785|Charlotte, NC
+468|1785|Raleigh, NC
+469|1785|Newark, NJ
+470|1785|Albany, NY
+471|1785|Buffalo, NY
+472|1785|Ithaca, NY
+473|1785|New York, NY
+474|1785|Rochester, NY
+475|1785|Syracuse, NY
+476|1785|Philadelpha, PA
+477|2497|Los Angeles, CA
+478|2497|Palo Alto, CA
+479|2497|San Jose, CA
+480|2497|Washington, DC
+481|2497|Milan, Italy
+482|2497|Ariake, Japan
+483|2497|Osaka, Japan
+484|2497|Tokyo, Japan
+485|2497|New York, NY
+486|2497|Ashburn, VA
+487|2548|Phoenix, AZ
+488|2548|Los Angeles, CA
+489|2548|Sacramento, CA
+490|2548|San Diego, CA
+491|2548|San Francisco, CA
+492|2548|San Jose, CA
+493|2548|Santa Ana, CA
+494|2548|Denver, CO
+495|2548|Englewood, CO
+496|2548|Washington, DC
+497|2548|Fort Lauderdale, FL
+498|2548|Miami, FL
+499|2548|Tampa, FL
+500|2548|Atlanta, GA
+501|2548|Chicago, IL
+502|2548|Boston, MA
+503|2548|Baltimore, MD
+504|2548|Hagerstown, MD
+505|2548|Detroit, MI
+506|2548|Minneapolis, MN
+507|2548|Saint Louis, MO
+508|2548|St. Louis, MO
+509|2548|Charlotte, NC
+510|2548|Raleigh, NC
+511|2548|Newark, NJ
+512|2548|Albany, NY
+513|2548|New York, NY
+514|2548|Cincinnati, OH
+515|2548|Cleveland, OH
+516|2548|Oklahoma City, OK
+517|2548|Portland, OR
+518|2548|Philadelphia, PA
+519|2548|Pittsburg, PA
+520|2548|Austin, TX
+521|2548|Dallas, TX
+522|2548|Houston, TX
+523|2548|San Antonio, TX
+524|2548|Ashburn, VA
+525|2548|Norfolk, VA
+526|2548|Reston, VA
+527|2548|Richmond, VA
+528|2548|Sterling, VA
+529|2548|Seattle, WA
+530|2686|Vienna, Austria
+531|2686|Brussels, Belgium
+532|2686|Nicosia, Cyprus
+533|2686|Prague, CzechRepublic
+534|2686|Washington, DC
+535|2686|Copenhagen, Denmark
+536|2686|Paris, France
+537|2686|Dusseldorf, Germany
+538|2686|Frankfurt, Germany
+539|2686|Hamburg, Germany
+540|2686|Munich, Germany
+541|2686|Athens, Greece
+542|2686|Budapest, Hungary
+543|2686|Haifa, Israel
+544|2686|Milan, Italy
+545|2686|New York, NY
+546|2686|Amsterdam, Netherlands
+547|2686|Oslo, Norway
+548|2686|Bucharest, Romania
+549|2686|Johannesburg, SouthAfrica
+550|2686|Madrid, Spain
+551|2686|Stockholm, Sweden
+552|2686|Basel, Switzerland
+553|2686|Geneva, Switzerland
+554|2686|Zurich, Switzerland
+555|2686|London, UnitedKingdom
+556|2686|Portsmouth, UnitedKingdom
+557|2687|Melbourne, Australia
+558|2687|Sydney, Australia
+559|2687|Los Angeles, CA
+560|2687|San Francisco, CA
+561|2687|Tokyo, Japan
+562|2687|Auckland, NewZealand
+563|2687|Wellington, NewZealand
+564|2687|Manila, Philippines
+565|2687|Taipei, Taiwan
+566|2687|Hong Kong
+567|2687|Singapore
+568|2828|Phoenix, AZ
+569|2828|Fremont, CA
+570|2828|Irvine, CA
+571|2828|Los Angeles, CA
+572|2828|Palo Alto, CA
+573|2828|Roseville, CA
+574|2828|San Diego, CA
+575|2828|San Francisco, CA
+576|2828|San Jose, CA
+577|2828|Santa Ana, CA
+578|2828|Santa Clara, CA
+579|2828|Denver, CO
+580|2828|Englewood, CO
+581|2828|Washington, DC
+582|2828|Miami, FL
+583|2828|Tampa, FL
+584|2828|Atlanta, GA
+585|2828|Smyrna, GA
+586|2828|Chicago, IL
+587|2828|Oak Brook, IL
+588|2828|Cambridge, MA
+589|2828|Southfield, MI
+590|2828|Maryland Heights, MO
+591|2828|Secaucus, NJ
+592|2828|Las Vegas, NV
+593|2828|New York, NY
+594|2828|Cleveland, OH
+595|2828|Columbus, OH
+596|2828|Beaverton, OR
+597|2828|Philadelphia, PA
+598|2828|Memphis, TN
+599|2828|Nashville, TN
+600|2828|Austin, TX
+601|2828|Dallas, TX
+602|2828|Houston, TX
+603|2828|Salt Lake City, UT
+604|2828|London, UnitedKingdom
+605|2828|Ashburn, VA
+606|2828|McLean, VA
+607|2828|Seattle, WA
+608|2828|Spokane, WA
+609|2914|Sydney, Australia
+610|2914|Irvine, CA
+611|2914|Los Angeles, CA
+612|2914|Milpitas, CA
+613|2914|Mountain View, CA
+614|2914|Oakland, CA
+615|2914|Palo Alto, CA
+616|2914|Sacramento, CA
+617|2914|San Diego, CA
+618|2914|San Francisco, CA
+619|2914|San Jose, CA
+620|2914|San Ramon, CA
+621|2914|Denver, CO
+622|2914|Englewood, CO
+623|2914|Boca Raton, FL
+624|2914|Miami, FL
+625|2914|Paris, France
+626|2914|Atlanta, GA
+627|2914|Frankfurt, Germany
+628|2914|Champaign, IL
+629|2914|Chicago, IL
+630|2914|Downers Grove, IL
+631|2914|Peoria, IL
+632|2914|Osaka, Japan
+633|2914|Tokyo, Japan
+634|2914|Topeka, KS
+635|2914|New Orleans, LA
+636|2914|Boston, MA
+637|2914|Baltimore, MD
+638|2914|Ann Arbor, MI
+639|2914|Burlington, MI
+640|2914|Livonia, MI
+641|2914|Springfield, MI
+642|2914|Kansas City, MO
+643|2914|St Louis, MO
+644|2914|Omaha, NE
+645|2914|Newark, NJ
+646|2914|Princeton, NJ
+647|2914|New York, NY
+648|2914|Rochester, NY
+649|2914|Smithtown, NY
+650|2914|Syracuse, NY
+651|2914|Westbury, NY
+652|2914|Amsterdam, Netherlands
+653|2914|Cleveland, OH
+654|2914|Columbus, OH
+655|2914|Eugene, OR
+656|2914|Portland, OR
+657|2914|Mainesburg, PA
+658|2914|Philadelphia, PA
+659|2914|Pittsburgh, PA
+660|2914|State College, PA
+661|2914|Sioux Falls, SD
+662|2914|Seoul, SouthKorea
+663|2914|Madrid, Spain
+664|2914|Austin, TX
+665|2914|Dallas, TX
+666|2914|Houston, TX
+667|2914|Taipei, Taiwan
+668|2914|Orem, UT
+669|2914|London, UnitedKingdom
+670|2914|Alexandria, VA
+671|2914|Ashburn, VA
+672|2914|McLean, VA
+673|2914|Sterling, VA
+674|2914|Vienna, VA
+675|2914|Seattle, WA
+676|2914|Spokane, WA
+677|2914|Hong Kong
+678|2914|Singapore
+679|3257|Vienna, Austria
+680|3257|Antwerp, Belgium
+681|3257|Brussels, Belgium
+682|3257|San Jose, CA
+683|3257|Prague, CzechRepublic
+684|3257|Washington, DC
+685|3257|Copenhagen, Denmark
+686|3257|Paris, France
+687|3257|Berlin, Germany
+688|3257|Bonn, Germany
+689|3257|Cologne, Germany
+690|3257|Darmstadt, Germany
+691|3257|Dortmund, Germany
+692|3257|Dresden, Germany
+693|3257|Dusseldorf, Germany
+694|3257|Essen, Germany
+695|3257|Frankfurt, Germany
+696|3257|Hamburg, Germany
+697|3257|Hanover, Germany
+698|3257|Karlsruhe, Germany
+699|3257|Mainz, Germany
+700|3257|Mannheim, Germany
+701|3257|Munich, Germany
+702|3257|Nuremberg, Germany
+703|3257|Offenbach, Germany
+704|3257|Stuttgart, Germany
+705|3257|xWUE, Germany
+706|3257|Chicago, IL
+707|3257|Milan, Italy
+708|3257|Rome, Italy
+709|3257|New York, NY
+710|3257|Amsterdam, Netherlands
+711|3257|Oslo, Norway
+712|3257|Barcelona, Spain
+713|3257|Madrid, Spain
+714|3257|Malmo, Sweden
+715|3257|Stockholm, Sweden
+716|3257|Basel, Switzerland
+717|3257|Zurich, Switzerland
+718|3257|Dallas, TX
+719|3257|London, UnitedKingdom
+720|3300|San Jose, CA
+721|3300|Washington, DC
+722|3300|Kuala Lumpur, Malaysia
+723|3300|Amstelveen, Netherlands
+724|3300|Amsterdam, Netherlands
+725|3300|London, UnitedKingdom
+726|3300|Hong Kong
+727|3300|tmh
+728|3300|tmhs
+729|3320|Vienna, Austria
+730|3320|Prague, CzechRepublic
+731|3320|Washington, DC
+732|3320|Paris, France
+733|3320|Aachen, Germany
+734|3320|Berlin, Germany
+735|3320|Bielefeld, Germany
+736|3320|Bonn, Germany
+737|3320|Braunschweig, Germany
+738|3320|Chemnitz, Germany
+739|3320|Cologne, Germany
+740|3320|Dortmund, Germany
+741|3320|Duisburg, Germany
+742|3320|Dusseldorf, Germany
+743|3320|Erfurt, Germany
+744|3320|Frankfurt, Germany
+745|3320|Hamburg, Germany
+746|3320|Hanover, Germany
+747|3320|Karlsruhe, Germany
+748|3320|Kassel, Germany
+749|3320|Konstanz, Germany
+750|3320|Krefeld, Germany
+751|3320|Leipzig, Germany
+752|3320|Lubeck, Germany
+753|3320|Mainz, Germany
+754|3320|Mannheim, Germany
+755|3320|Meschede, Germany
+756|3320|Munich, Germany
+757|3320|Munster, Germany
+758|3320|Nuremberg, Germany
+759|3320|Offenburg, Germany
+760|3320|Siegen, Germany
+761|3320|Stuttgart, Germany
+762|3320|Ulm, Germany
+763|3320|Wiesbaden, Germany
+764|3320|Wuppertal, Germany
+765|3320|Tokyo, Japan
+766|3320|Relay, MD
+767|3320|New York, NY
+768|3320|Syracuse, NY
+769|3320|Amsterdam, Netherlands
+770|3320|Geneva, Switzerland
+771|3320|Zurich, Switzerland
+772|3320|London, UnitedKingdom
+773|3320|Ashburn, VA
+774|3320|Sterling, VA
+775|3356|Phoenix, AZ
+776|3356|Brussels, Belgium
+777|3356|Los Angeles, CA
+778|3356|Palo Alto, CA
+779|3356|Sacramento, CA
+780|3356|San Diego, CA
+781|3356|San Francisco, CA
+782|3356|San Jose, CA
+783|3356|Tustin, CA
+784|3356|Broomfield, CO
+785|3356|Denver, CO
+786|3356|Stamford, CT
+787|3356|Washington, DC
+788|3356|Miami, FL
+789|3356|Orlando, FL
+790|3356|Tampa, FL
+791|3356|Paris, France
+792|3356|Atlanta, GA
+793|3356|Berlin, Germany
+794|3356|Dusseldorf, Germany
+795|3356|Frankfurt, Germany
+796|3356|Hamburg, Germany
+797|3356|Munich, Germany
+798|3356|Honolulu, HI
+799|3356|Chicago, IL
+800|3356|Indianapolis, IN
+801|3356|Milan, Italy
+802|3356|New Orleans, LA
+803|3356|Boston, MA
+804|3356|Manchester, MA
+805|3356|Baltimore, MD
+806|3356|Detroit, MI
+807|3356|Minneapolis, MN
+808|3356|St. Louis, MO
+809|3356|Charlotte, NC
+810|3356|Raleigh, NC
+811|3356|Newark, NJ
+812|3356|Princeton, NJ
+813|3356|Weehawken, NJ
+814|3356|Las Vegas, NV
+815|3356|Garden City, NY
+816|3356|New York, NY
+817|3356|Amsterdam, Netherlands
+818|3356|Cincinnati, OH
+819|3356|Cleveland, OH
+820|3356|Portland, OR
+821|3356|Philadelphia, PA
+822|3356|Pittsburgh, PA
+823|3356|Providence, RI
+824|3356|Madrid, Spain
+825|3356|Stockholm, Sweden
+826|3356|Zurich, Switzerland
+827|3356|Nashville, TN
+828|3356|Austin, TX
+829|3356|Dallas, TX
+830|3356|Houston, TX
+831|3356|San Antonio, TX
+832|3356|Salt Lake City, UT
+833|3356|London, UnitedKingdom
+834|3356|Manchester, UnitedKingdom
+835|3356|Ashburn, VA
+836|3356|Richmond, VA
+837|3356|Seattle, WA
+838|3549|Phoenix, AZ
+839|3549|Tucson, AZ
+840|3549|Buenos Aires, Argentina
+841|3549|Sydney, Australia
+842|3549|Sao Paolo, Brazil
+843|3549|Anaheim, CA
+844|3549|Los Angeles, CA
+845|3549|Palo Alto, CA
+846|3549|Sacramento, CA
+847|3549|San Diego, CA
+848|3549|San Francisco, CA
+849|3549|San Jose, CA
+850|3549|Santa Ana, CA
+851|3549|Sunnyvale, CA
+852|3549|Denver, CO
+853|3549|Washington, DC
+854|3549|Copenhagen, Denmark
+855|3549|Miami, FL
+856|3549|Tampa, FL
+857|3549|Paris, France
+858|3549|Atlanta, GA
+859|3549|Frankfurt, Germany
+860|3549|Hamburg, Germany
+861|3549|Chicago, IL
+862|3549|Roachdale, IN
+863|3549|Milan, Italy
+864|3549|Nagoya, Japan
+865|3549|Osaka, Japan
+866|3549|Tokyo, Japan
+867|3549|Boston, MA
+868|3549|Detroit, MI
+869|3549|Minneapolis, MN
+870|3549|Kansas City, MO
+871|3549|Mexico City, Mexico
+872|3549|Charlotte, NC
+873|3549|Las Vegas, NV
+874|3549|New York, NY
+875|3549|Rochester, NY
+876|3549|Amsterdam, Netherlands
+877|3549|Auckland, NewZealand
+878|3549|Oslo, Norway
+879|3549|Cleveland, OH
+880|3549|Philadelphia, PA
+881|3549|Panama City, Panama
+882|3549|Manila, Philippines
+883|3549|Seoul, SouthKorea
+884|3549|Madrid, Spain
+885|3549|Zurich, Switzerland
+886|3549|Austin, TX
+887|3549|Dallas, TX
+888|3549|Houston, TX
+889|3549|Taipei, Taiwan
+890|3549|Biggin Hill, UnitedKingdom
+891|3549|Birmingham, UnitedKingdom
+892|3549|Blackbush, UnitedKingdom
+893|3549|Leeds, UnitedKingdom
+894|3549|London, UnitedKingdom
+895|3549|Ashburn, VA
+896|3549|Seattle, WA
+897|3549|Hong Kong
+898|3549|Singapore
+899|3561|Phoenix, AZ
+900|3561|Sydney, Australia
+901|3561|Vienna, Austria
+902|3561|Brussels, Belgium
+903|3561|Anaheim, CA
+904|3561|El Segundo, CA
+905|3561|Los Angeles, CA
+906|3561|Palo Alto, CA
+907|3561|San Francisco, CA
+908|3561|San Jose, CA
+909|3561|Santa Clara, CA
+910|3561|Sunnyvale, CA
+911|3561|Denver, CO
+912|3561|Hartford, CT
+913|3561|Des Laurentides, Canada
+914|3561|Toronto, Canada
+915|3561|Washington, DC
+916|3561|Copenhagen, Denmark
+917|3561|Miami, FL
+918|3561|Paris, France
+919|3561|Atlanta, GA
+920|3561|Austell, GA
+921|3561|Aachen, Germany
+922|3561|Berlin, Germany
+923|3561|Bielefeld, Germany
+924|3561|Braunschweig, Germany
+925|3561|Bremen, Germany
+926|3561|Dortmund, Germany
+927|3561|Dresden, Germany
+928|3561|Dusseldorf, Germany
+929|3561|Essen, Germany
+930|3561|Frankfurt, Germany
+931|3561|Hamburg, Germany
+932|3561|Hanover, Germany
+933|3561|Heidelberg, Germany
+934|3561|Karlsruhe, Germany
+935|3561|Kiel, Germany
+936|3561|Koblenz, Germany
+937|3561|Leipzig, Germany
+938|3561|Lubeck, Germany
+939|3561|Mannheim, Germany
+940|3561|Munich, Germany
+941|3561|Nuremberg, Germany
+942|3561|Osnabruck, Germany
+943|3561|Regensburg, Germany
+944|3561|Saarbrucken, Germany
+945|3561|Stuttgart, Germany
+946|3561|Wiesbaden, Germany
+947|3561|Budapest, Hungary
+948|3561|Chicago, IL
+949|3561|Elk Grove, IL
+950|3561|Oak Brook, IL
+951|3561|Roachdale, IN
+952|3561|Dublin, Ireland
+953|3561|Milan, Italy
+954|3561|Osaka, Japan
+955|3561|Tokyo, Japan
+956|3561|Boston, MA
+957|3561|Waltham, MA
+958|3561|Relay, MD
+959|3561|Minneapolis, MN
+960|3561|Kansas City, MO
+961|3561|Raleigh, NC
+962|3561|Jersey City, NJ
+963|3561|Weehawken, NJ
+964|3561|New York, NY
+965|3561|Amsterdam, Netherlands
+966|3561|Rotterdam, Netherlands
+967|3561|Oslo, Norway
+968|3561|Cleveland, OH
+969|3561|Tulsa, OK
+970|3561|Portland, OR
+971|3561|Philadelphia, PA
+972|3561|Moscow, Russia
+973|3561|Barcelona, Spain
+974|3561|Madrid, Spain
+975|3561|Stockholm, Sweden
+976|3561|Geneva, Switzerland
+977|3561|Zurich, Switzerland
+978|3561|Nashville, TN
+979|3561|Austin, TX
+980|3561|Dallas, TX
+981|3561|Fort Worth, TX
+982|3561|Houston, TX
+983|3561|Salt Lake City, UT
+984|3561|Birmingham, UnitedKingdom
+985|3561|London, UnitedKingdom
+986|3561|Manchester, UnitedKingdom
+987|3561|Swindon, UnitedKingdom
+988|3561|Herndon, VA
+989|3561|Reston, VA
+990|3561|Sterling, VA
+991|3561|Seattle, WA
+992|3561|Tukwila, WA
+993|3582|Eugene, OR
+994|3602|Calgary, Canada
+995|3602|Toronto, Canada
+996|3602|Chicago, IL
+997|3602|Pennsauken, NJ
+998|3602|New York, NY
+999|3602|Seattle, WA
+1000|3701|Stockton, CA
+1001|3701|Eugene, OR
+1002|3701|Seattle, WA
+1003|3967|El Segundo, CA
+1004|3967|Irvine, CA
+1005|3967|Palo Alto, CA
+1006|3967|San Francisco, CA
+1007|3967|San Jose, CA
+1008|3967|Santa Clara, CA
+1009|3967|Sunnyvale, CA
+1010|3967|Washington, DC
+1011|3967|Chicago, IL
+1012|3967|Oak Brook, IL
+1013|3967|Tokyo, Japan
+1014|3967|Waltham, MA
+1015|3967|Jersey City, NJ
+1016|3967|New York, NY
+1017|3967|London, UnitedKingdom
+1018|3967|Herndon, VA
+1019|3967|Sterling, VA
+1020|4006|Palo Alto, CA
+1021|4006|San Francisco, CA
+1022|4006|Atlanta, GA
+1023|4006|Chicago, IL
+1024|4006|New York, NY
+1025|4006|Dallas, TX
+1026|4006|Fort Worth, TX
+1027|4323|Fayetteville, AR
+1028|4323|Phoenix, AZ
+1029|4323|Tucson, AZ
+1030|4323|Anaheim, CA
+1031|4323|Bakersfield, CA
+1032|4323|Fresno, CA
+1033|4323|Los Angeles, CA
+1034|4323|Modesto, CA
+1035|4323|Oakland, CA
+1036|4323|Ontario, CA
+1037|4323|Orange, CA
+1038|4323|Palo Alto, CA
+1039|4323|San Diego, CA
+1040|4323|San Francisco, CA
+1041|4323|San Jose, CA
+1042|4323|San Luis Obispo, CA
+1043|4323|Denver, CO
+1044|4323|Washington, DC
+1045|4323|Tampa, FL
+1046|4323|Atlanta, GA
+1047|4323|Honolulu, HI
+1048|4323|Boise, ID
+1049|4323|Chicago, IL
+1050|4323|Indianapolis, IN
+1051|4323|Minneapolis, MN
+1052|4323|Charlotte, NC
+1053|4323|Durham, NC
+1054|4323|Fayetteville, NC
+1055|4323|Greensboro, NC
+1056|4323|Albany, NY
+1057|4323|Binghampton, NY
+1058|4323|New York, NY
+1059|4323|Rochester, NY
+1060|4323|Syracuse, NY
+1061|4323|Cincinnati, OH
+1062|4323|Columbus, OH
+1063|4323|Dayton, OH
+1064|4323|Portland, OR
+1065|4323|Columbia, SC
+1066|4323|Memphis, TN
+1067|4323|Austin, TX
+1068|4323|Dallas, TX
+1069|4323|Houston, TX
+1070|4323|San Antonio, TX
+1071|4323|Salt Lake City, UT
+1072|4323|Ashburn, VA
+1073|4323|Herndon, VA
+1074|4323|Richmond, VA
+1075|4323|Vienna, VA
+1076|4323|Seattle, WA
+1077|4323|Brookfield, WI
+1078|4323|Milwaukee, WI
+1079|4323|Pewaukee, WI
+1080|4513|Fullerton, CA
+1081|4513|Palo Alto, CA
+1082|4513|San Francisco, CA
+1083|4513|San Jose, CA
+1084|4513|Washington, DC
+1085|4513|Atlanta, GA
+1086|4513|Frankfurt, Germany
+1087|4513|Chicago, IL
+1088|4513|Boston, MA
+1089|4513|New York, NY
+1090|4513|Amsterdam, Netherlands
+1091|4513|London, UnitedKingdom
+1092|4513|Seattle, WA
+1093|4544|Los Angeles, CA
+1094|4544|Palo Alto, CA
+1095|4544|Sacramento, CA
+1096|4544|San Francisco, CA
+1097|4544|Sunnyvale, CA
+1098|4544|Denver, CO
+1099|4544|Washington, DC
+1100|4544|Atlanta, GA
+1101|4544|Chicago, IL
+1102|4544|New York, NY
+1103|4544|Dallas, TX
+1104|4544|Ashburn, VA
+1105|4544|Herndon, VA
+1106|4544|Seattle, WA
+1107|4565|Los Angeles, CA
+1108|4565|Napa, CA
+1109|4565|Palo Alto, CA
+1110|4565|San Franciso, CA
+1111|4565|Santa Ana, CA
+1112|4565|Washington, DC
+1113|4565|Tampa, FL
+1114|4565|Atlanta, GA
+1115|4565|Chicago, IL
+1116|4565|Boston, MA
+1117|4565|Baltimore, MD
+1118|4565|Relay, MD
+1119|4565|Detroit, MI
+1120|4565|Las Vegas, NV
+1121|4565|New York, NY
+1122|4565|Portland, OR
+1123|4565|Philadelphia, PA
+1124|4565|Dallas, TX
+1125|4565|Ashburn, VA
+1126|4565|Charlottesville, VA
+1127|4565|Seattle, WA
+1128|4589|Brussels, Belgium
+1129|4589|Paris, France
+1130|4589|Berlin, Germany
+1131|4589|Brandenburg, Germany
+1132|4589|Bremen, Germany
+1133|4589|Dusseldorf, Germany
+1134|4589|Frankfurt, Germany
+1135|4589|Hamburg, Germany
+1136|4589|Munich, Germany
+1137|4589|Milan, Italy
+1138|4589|New York, NY
+1139|4589|Amsterdam, Netherlands
+1140|4589|Den Bosch, Netherlands
+1141|4589|Haarlem, Netherlands
+1142|4589|Hoofdorp, Netherlands
+1143|4589|Rotterdam, Netherlands
+1144|4589|Madrid, Spain
+1145|4589|Geneva, Switzerland
+1146|4589|Zurich, Switzerland
+1147|4589|Blackbush, UnitedKingdom
+1148|4589|London, UnitedKingdom
+1149|4589|Manchester, UnitedKingdom
+1150|4589|Middlesbrough, UnitedKingdom
+1151|4600|Eugene, OR
+1152|4637|Perth, Australia
+1153|4637|Sydney, Australia
+1154|4637|Anaheim, CA
+1155|4637|Los Angeles, CA
+1156|4637|Palo Alto, CA
+1157|4637|San Francisco, CA
+1158|4637|San Jose, CA
+1159|4637|Washington, DC
+1160|4637|Miami, FL
+1161|4637|Chicago, IL
+1162|4637|Kyoto, Japan
+1163|4637|Tokyo, Japan
+1164|4637|Relay, MD
+1165|4637|Newark, NJ
+1166|4637|New York, NY
+1167|4637|Auckland, NewZealand
+1168|4637|Dallas, TX
+1169|4637|Taipei, Taiwan
+1170|4637|London, UnitedKingdom
+1171|4637|Ashburn, VA
+1172|4637|Hong Kong
+1173|4637|car
+1174|4637|hht
+1175|4637|hhts
+1176|4637|tmh
+1177|4637|tmhs
+1178|4637|xeig
+1179|4637|yck
+1180|4725|Los Angeles, CA
+1181|4725|Palo Alto, CA
+1182|4725|San Jose, CA
+1183|4725|Santa Clara, CA
+1184|4725|Washington, DC
+1185|4725|Atsuta, Japan
+1186|4725|Chiba, Japan
+1187|4725|Kyoto, Japan
+1188|4725|Osaka, Japan
+1189|4725|Shintokyo, Japan
+1190|4725|Tokyo, Japan
+1191|4725|Ashburn, VA
+1192|4725|Vienna, VA
+1193|4755|Stockton, CA
+1194|4755|Ahmedabad, IN
+1195|4755|Bangalore, IN
+1196|4755|Bombay, IN
+1197|4755|Delhi, IN
+1198|4755|Hyderabad, IN
+1199|4755|Madras, IN
+1200|4755|Mumbai, IN
+1201|4755|Newark, NJ
+1202|4755|Pennsauken, NJ
+1203|4755|New York, NY
+1204|4755|London, UnitedKingdom
+1205|5400|Hayward, CA
+1206|5400|San Francisco, CA
+1207|5400|San Jose, CA
+1208|5400|Washington, DC
+1209|5400|Atlanta, GA
+1210|5400|Chicago, IL
+1211|5400|Milan, Italy
+1212|5400|New York, NY
+1213|5400|Amsterdam, Netherlands
+1214|5400|Goonhilly, UnitedKingdom
+1215|5400|London, UnitedKingdom
+1216|5400|Ashburn, VA
+1217|5400|McLean, VA
+1218|5400|Singapore
+1219|5511|Brussels, Belgium
+1220|5511|Palo Alto, CA
+1221|5511|San Jose, CA
+1222|5511|Stockton, CA
+1223|5511|Prague, CzechRepublic
+1224|5511|Washington, DC
+1225|5511|Copenhagen, Denmark
+1226|5511|Miami, FL
+1227|5511|Aubervilliers, France
+1228|5511|Paris, France
+1229|5511|Atlanta, GA
+1230|5511|Frankfurt, Germany
+1231|5511|Athens, Greece
+1232|5511|Chicago, IL
+1233|5511|Milan, Italy
+1234|5511|Tokyo, Japan
+1235|5511|Lamentin, Martinique
+1236|5511|Pennsauken, NJ
+1237|5511|New York, NY
+1238|5511|Amsterdam, Netherlands
+1239|5511|Oslo, Norway
+1240|5511|Lisbon, Portugal
+1241|5511|Barcelona, Spain
+1242|5511|Madrid, Spain
+1243|5511|Stockholm, Sweden
+1244|5511|Geneva, Switzerland
+1245|5511|Zurich, Switzerland
+1246|5511|Dallas, TX
+1247|5511|London, UnitedKingdom
+1248|5511|Ashburn, VA
+1249|5511|Herndon, VA
+1250|5511|Oak Hill, VA
+1251|5511|Caracas, Venezuela
+1252|5511|Seattle, WA
+1253|5511|Hong Kong
+1254|5511|Singapore
+1255|5650|Palo Alto, CA
+1256|5650|San Jose, CA
+1257|5650|Stockton, CA
+1258|5650|Chicago, IL
+1259|5650|Portland, OR
+1260|5650|Dallas, TX
+1261|5650|Ashburn, VA
+1262|5650|McLean, VA
+1263|5650|Seattle, WA
+1264|5650|Tukwila, WA
+1265|5669|Paris, France
+1266|5669|Cologne, Germany
+1267|5669|Dortmund, Germany
+1268|5669|Duisburg, Germany
+1269|5669|Dusseldorf, Germany
+1270|5669|Essen, Germany
+1271|5669|Frankfurt, Germany
+1272|5669|Hamburg, Germany
+1273|5669|Hanover, Germany
+1274|5669|Magdeburg, Germany
+1275|5669|Mannheim, Germany
+1276|5669|Munich, Germany
+1277|5669|Nuremberg, Germany
+1278|5669|Stuttgart, Germany
+1279|5669|Dublin, Ireland
+1280|5669|Milan, Italy
+1281|5669|Amsterdam, Netherlands
+1282|5669|Denhaag, Netherlands
+1283|5669|Eindhoven, Netherlands
+1284|5669|Rotterdam, Netherlands
+1285|5669|Lisbon, Portugal
+1286|5669|Madrid, Spain
+1287|5669|Geneva, Switzerland
+1288|5669|London, UnitedKingdom
+1289|5669|Manchester, UnitedKingdom
+1290|6395|Phoenix, AZ
+1291|6395|Anaheim, CA
+1292|6395|Hayward, CA
+1293|6395|Los Angeles, CA
+1294|6395|San Francisco, CA
+1295|6395|San Jose, CA
+1296|6395|Santa Clara, CA
+1297|6395|Denver, CO
+1298|6395|Washington, DC
+1299|6395|Miami, FL
+1300|6395|Atlanta, GA
+1301|6395|Chicago, IL
+1302|6395|Boston, MA
+1303|6395|Baltimore, MD
+1304|6395|Relay, MD
+1305|6395|Kansas City, MO
+1306|6395|Newark, NJ
+1307|6395|Buffalo, NY
+1308|6395|New York, NY
+1309|6395|Rochester, NY
+1310|6395|Cincinnati, OH
+1311|6395|Philadelphia, PA
+1312|6395|Dallas, TX
+1313|6395|Fort Worth, TX
+1314|6395|San Antonio, TX
+1315|6395|Salt Lake City, UT
+1316|6395|Vienna, VA
+1317|6395|Seattle, WA
+1318|6453|Buenos Aires, Argentina
+1319|6453|Rio de Janeiro, Brazil
+1320|6453|Sao Paolo, Brazil
+1321|6453|Anaheim, CA
+1322|6453|Los Angeles, CA
+1323|6453|Montreal, CA
+1324|6453|Palo Alto, CA
+1325|6453|Sacramento, CA
+1326|6453|San Jose, CA
+1327|6453|Stockton, CA
+1328|6453|Burnaby, Canada
+1329|6453|Des Laurentides, Canada
+1330|6453|Hedstervester, Canada
+1331|6453|Lake Cowichan, Canada
+1332|6453|Montreal, Canada
+1333|6453|Ottawa, Canada
+1334|6453|Pennant Point, Canada
+1335|6453|Scarborough, Canada
+1336|6453|Toronto, Canada
+1337|6453|Bogota, Colombia
+1338|6453|Washington, DC
+1339|6453|Blaavand, Denmark
+1340|6453|Cairo, Egypt
+1341|6453|Miami, FL
+1342|6453|Atlanta, GA
+1343|6453|Munich, Germany
+1344|6453|Chicago, IL
+1345|6453|Mexico City, Mexico
+1346|6453|Farmingdale, NJ
+1347|6453|Newark, NJ
+1348|6453|New York, NY
+1349|6453|Quezon City, Philippines
+1350|6453|Barcelona, Spain
+1351|6453|Madrid, Spain
+1352|6453|Dallas, TX
+1353|6453|London, UnitedKingdom
+1354|6453|Ashburn, VA
+1355|6453|Seattle, WA
+1356|6453|Tacoma, WA
+1357|6453|Hong Kong
+1358|6453|Puerto Rico
+1359|6461|Vienna, Austria
+1360|6461|Los Angeles, CA
+1361|6461|Napa, CA
+1362|6461|Palo Alto, CA
+1363|6461|San Jose, CA
+1364|6461|Washington, DC
+1365|6461|Paris, France
+1366|6461|Atlanta, GA
+1367|6461|Frankfurt, Germany
+1368|6461|Chicago, IL
+1369|6461|Tokyo, Japan
+1370|6461|Boston, MA
+1371|6461|Relay, MD
+1372|6461|New York, NY
+1373|6461|Amsterdam, Netherlands
+1374|6461|Dallas, TX
+1375|6461|Houston, TX
+1376|6461|London, UnitedKingdom
+1377|6461|Seattle, WA
+1378|6467|Montgomery, AL
+1379|6467|Tucson, AZ
+1380|6467|San Jose, CA
+1381|6467|Colorado Springs, CO
+1382|6467|Washington, DC
+1383|6467|Fort Lauderdale, FL
+1384|6467|Jacksonville, FL
+1385|6467|Tampa, FL
+1386|6467|Atlanta, GA
+1387|6467|Columbus, GA
+1388|6467|Chicago, IL
+1389|6467|Lexington, KY
+1390|6467|Baltimore, MD
+1391|6467|Kansas City, MO
+1392|6467|Albuquerque, NM
+1393|6467|Las Vegas, NV
+1394|6467|Tulsa, OK
+1395|6467|Dallas, TX
+1396|6467|El Paso, TX
+1397|6467|Fort Worth, TX
+1398|6467|Houston, TX
+1399|6509|Regina, Canada
+1400|6509|Winnipeg, Canada
+1401|6509|Chicago, IL
+1402|6509|Indianapolis, IN
+1403|6509|New York, NY
+1404|6509|Seattle, WA
+1405|6539|Calgary, Canada
+1406|6539|Halifax, Canada
+1407|6539|Montreal, Canada
+1408|6539|Saint Johns, Canada
+1409|6539|Toronto, Canada
+1410|6539|Vancouver, Canada
+1411|6539|Chicago, IL
+1412|6539|New York, NY
+1413|6539|Seattle, WA
+1414|6939|Fremont, CA
+1415|6939|Palo Alto, CA
+1416|6939|San Francisco, CA
+1417|6939|San Jose, CA
+1418|6939|Washington, DC
+1419|6939|Chicago, IL
+1420|6939|New York, NY
+1421|6939|Ashburn, VA
+1422|6939|McLean, VA
+1423|7018|Phoenix, AZ
+1424|7018|Los Angeles, CA
+1425|7018|Palo Alto, CA
+1426|7018|San Francisco, CA
+1427|7018|San Jose, CA
+1428|7018|Stockton, CA
+1429|7018|Denver, CO
+1430|7018|Hartford, CT
+1431|7018|Washington, DC
+1432|7018|Miami, FL
+1433|7018|Atlanta, GA
+1434|7018|Frankfurt, Germany
+1435|7018|Honolulu, HI
+1436|7018|Chicago, IL
+1437|7018|Indianapolis, IN
+1438|7018|Cambridge, MA
+1439|7018|Baltimore, MD
+1440|7018|Relay, MD
+1441|7018|Detroit, MI
+1442|7018|Minneapolis, MN
+1443|7018|St Louis, MO
+1444|7018|Omaha, NE
+1445|7018|New Brunswick, NJ
+1446|7018|Albany, NY
+1447|7018|New York, NY
+1448|7018|Syracuse, NY
+1449|7018|Tulsa, OK
+1450|7018|Wayne, PA
+1451|7018|Dallas, TX
+1452|7018|London, UnitedKingdom
+1453|7018|Abingdon, VA
+1454|7018|McLean, VA
+1455|7018|Seattle, WA
+1456|7018|Cheyenne, WY
+1457|7132|Fayetteville, AR
+1458|7132|Little Rock, AR
+1459|7132|Los Angeles, CA
+1460|7132|Palo Alto, CA
+1461|7132|San Francisco, CA
+1462|7132|San Jose, CA
+1463|7132|Santa Clara, CA
+1464|7132|Washington, DC
+1465|7132|Chicago, IL
+1466|7132|Topeka, KS
+1467|7132|Wichita, KS
+1468|7132|Kansas City, MO
+1469|7132|Springfield, MO
+1470|7132|St Louis, MO
+1471|7132|New York, NY
+1472|7132|Oklahoma City, OK
+1473|7132|Tulsa, OK
+1474|7132|Abilene, TX
+1475|7132|Austin, TX
+1476|7132|Corpus Christi, TX
+1477|7132|Dallas, TX
+1478|7132|El Paso, TX
+1479|7132|Houston, TX
+1480|7132|Lauback, TX
+1481|7132|Long View, TX
+1482|7132|Richardson, TX
+1483|7132|San Antonio, TX
+1484|7132|Waco, TX
+1485|7132|Ashburn, VA
+1486|7132|Herndon, VA
+1487|7132|Vienna, VA
+1488|7132|Seattle, WA
+1489|7170|China Lake, CA
+1490|7170|Los Angeles, CA
+1491|7170|Sunnyvale, CA
+1492|7170|Denver, CO
+1493|7170|Washington, DC
+1494|7170|Atlanta, GA
+1495|7170|Chicago, IL
+1496|7170|Indianapolis, IN
+1497|7170|Milan, Italy
+1498|7170|New Orleans, LA
+1499|7170|Cambridge, MA
+1500|7170|Annapolis, MD
+1501|7170|Salisbury, MD
+1502|7170|Pittsburgh, PA
+1503|7170|Charleston, SC
+1504|7170|Alexandria, VA
+1505|7170|Arlington, VA
+1506|7170|Dahlgren, VA
+1507|7170|Norfolk, VA
+1508|7170|Seattle, WA
+1509|7176|Sydney, Australia
+1510|7176|Brussels, Belgium
+1511|7176|Rio de Janeiro, Brazil
+1512|7176|Sao Paolo, Brazil
+1513|7176|Copenhagen, Denmark
+1514|7176|Paris, France
+1515|7176|Dusseldorf, Germany
+1516|7176|Frankfurt, Germany
+1517|7176|Dublin, Ireland
+1518|7176|Milan, Italy
+1519|7176|Tokyo, Japan
+1520|7176|Amsterdam, Netherlands
+1521|7176|Madrid, Spain
+1522|7176|Stockholm, Sweden
+1523|7176|London, UnitedKingdom
+1524|7176|Manchester, UnitedKingdom
+1525|7176|Reading, UnitedKingdom
+1526|7176|Hong Kong
+1527|7543|Adelaide, Australia
+1528|7543|Melbourne, Australia
+1529|7543|Newcastle, Australia
+1530|7543|Perth, Australia
+1531|7543|Sydney, Australia
+1532|7543|Palo Alto, CA
+1533|7543|San Jose, CA
+1534|7543|Washington, DC
+1535|7543|Taipei, Taiwan
+1536|7543|Singapore
+1537|7911|Phoenix, AZ
+1538|7911|Anaheim, CA
+1539|7911|Los Angeles, CA
+1540|7911|Palo Alto, CA
+1541|7911|San Francisco, CA
+1542|7911|San Jose, CA
+1543|7911|Santa Clara, CA
+1544|7911|Washington, DC
+1545|7911|Miami, FL
+1546|7911|Atlanta, GA
+1547|7911|Doraville, GA
+1548|7911|Broadview, IL
+1549|7911|Chicago, IL
+1550|7911|Topeka, KS
+1551|7911|Relay, MD
+1552|7911|New York, NY
+1553|7911|Cleveland, OH
+1554|7911|Tulsa, OK
+1555|7911|Dallas, TX
+1556|7911|El Paso, TX
+1557|7911|Houston, TX
+1558|7911|London, UnitedKingdom
+1559|7911|Ashburn, VA
+1560|7911|Herndon, VA
+1561|7911|Seattle, WA
+1562|8220|Vienna, Austria
+1563|8220|Brussels, Belgium
+1564|8220|Copenhagen, Denmark
+1565|8220|Paris, France
+1566|8220|Berlin, Germany
+1567|8220|Cologne, Germany
+1568|8220|Dusseldorf, Germany
+1569|8220|Frankfurt, Germany
+1570|8220|Hamburg, Germany
+1571|8220|Hanover, Germany
+1572|8220|Munich, Germany
+1573|8220|Strasburg, Germany
+1574|8220|Milan, Italy
+1575|8220|New York, NY
+1576|8220|Syracuse, NY
+1577|8220|Madrid, Spain
+1578|8220|Stockholm, Sweden
+1579|8220|London, UnitedKingdom
+1580|9070|Brussels, Belgium
+1581|9942|Adelaide, Australia
+1582|9942|Brisbane, Australia
+1583|9942|Bunbury, Australia
+1584|9942|Cairns, Australia
+1585|9942|Canberra, Australia
+1586|9942|Geelong, Australia
+1587|9942|Gilbert, Australia
+1588|9942|Gosford, Australia
+1589|9942|Henley Brook, Australia
+1590|9942|Hobart, Australia
+1591|9942|Maroochydore, Australia
+1592|9942|Melbourne, Australia
+1593|9942|Penrith, Australia
+1594|9942|Perth, Australia
+1595|9942|Port Augusta, Australia
+1596|9942|Southport, Australia
+1597|9942|Sunshine Coast, Australia
+1598|9942|Sydney, Australia
+1599|9942|Wollongong, Australia
+1600|9942|Napa, CA
+1601|9942|Palo Alto, CA
+1602|9942|San Jose, CA
+1603|9942|Seattle, WA
+1604|10910|Anaheim, CA
+1605|10910|Los Angeles, CA
+1606|10910|Milpitas, CA
+1607|10910|Orange County, CA
+1608|10910|Palo Alto, CA
+1609|10910|San Diego, CA
+1610|10910|San Francisco, CA
+1611|10910|San Jose, CA
+1612|10910|Denver, CO
+1613|10910|Washington, DC
+1614|10910|Miami, FL
+1615|10910|Orlando, FL
+1616|10910|Atlanta, GA
+1617|10910|Chicago, IL
+1618|10910|Tokyo, Japan
+1619|10910|Boston, MA
+1620|10910|Pennsauken, NJ
+1621|10910|New York, NY
+1622|10910|Philadelphia, PA
+1623|10910|Carrollton, TX
+1624|10910|Dallas, TX
+1625|10910|Houston, TX
+1626|10910|London, UnitedKingdom
+1627|10910|Vienna, VA
+1628|10910|Everett, WA
+1629|10910|Seattle, WA
+1630|10910|Tacoma, WA
+1631|10910|Cheyenne, WY
+1632|11537|Los Angeles, CA
+1633|11537|Sunnyvale, CA
+1634|11537|Denver, CO
+1635|11537|Winnipeg, Canada
+1636|11537|Washington, DC
+1637|11537|Atlanta, GA
+1638|11537|Chicago, IL
+1639|11537|Indianapolis, IN
+1640|11537|Boston, MA
+1641|11537|Kansas City, MO
+1642|11537|New York, NY
+1643|11537|Cleveland, OH
+1644|11537|Pittsburgh, PA
+1645|11537|Houston, TX
+1646|11537|Norfolk, VA
+1647|11537|Seattle, WA
+1648|11608|Palo Alto, CA
+1649|11608|New York, NY
+1650|11608|Seattle, WA
+1651|11608|Tacoma, WA
+1652|12050|Los Angeles, CA
+1653|12050|Palo Alto, CA
+1654|12050|San Jose, CA
+1655|12050|Washington, DC
+1656|12050|Miami, FL
+1657|12050|Atlanta, GA
+1658|12050|Chicago, IL
+1659|12050|Boston, MA
+1660|12050|Dallas, TX
+1661|12050|Fort Worth, TX
+1662|13129|Berlin, Germany
+1663|13129|Dusseldorf, Germany
+1664|13129|Frankfurt, Germany
+1665|13129|Hamburg, Germany
+1666|13129|Munich, Germany
+1667|13129|Munster, Germany
+1668|13129|London, UnitedKingdom
+1669|15290|Toronto, Canada
+1670|15290|Vancouver, Canada
+1671|15290|Seattle, WA
+1672|15412|San Francisco, CA
+1673|15412|Santa Clara, CA
+1674|15412|Cairo, Egypt
+1675|15412|Tehran, Iran
+1676|15412|Tokyo, Japan
+1677|15412|Seoul, Korea
+1678|15412|New York, NY
+1679|15412|London, UnitedKingdom
+1680|15412|Hong Kong
+1681|16631|Los Angeles, CA
+1682|16631|Palo Alto, CA
+1683|16631|San Diego, CA
+1684|16631|San Francisco, CA
+1685|16631|San Jose, CA
+1686|16631|Denver, CO
+1687|16631|Toronto, Canada
+1688|16631|Washington, DC
+1689|16631|Jacksonville, FL
+1690|16631|Miami, FL
+1691|16631|Orlando, FL
+1692|16631|Tampa, FL
+1693|16631|Atlanta, GA
+1694|16631|Chicago, IL
+1695|16631|Boston, MA
+1696|16631|Baltimore, MD
+1697|16631|Kansas City, MO
+1698|16631|New York, NY
+1699|16631|Philadelphia, PA
+1700|16631|Dallas, TX
+1701|16631|Houston, TX
+1702|16631|Seattle, WA
